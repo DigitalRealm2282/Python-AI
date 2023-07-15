@@ -1,9 +1,10 @@
-# Python Ai-models
+# Python Ai-models 
 # Open neural network exchange (onnx)
 <br></br><br></br>
-# Machine Learning
+# Machine Learning contains :
 # Matplotlib - pandas - numpy - scipy - Business Intelligence
-# Open CV - NLTK - Image classification 
+# NLTK 
 <br></br><br></br>
-# Deep Learning
-# TensorFlow - Keras - pytorch - CNN
+# Deep Learning contains :
+# TensorFlow - Keras - pytorch - CNN 
+# Image classification - Open CV 
